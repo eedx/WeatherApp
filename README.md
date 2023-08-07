@@ -10,6 +10,6 @@ the app keeps track of daily weather with some features, such as:
 
 The key used in this app is a free key, that allows up to 100,000 calls per month
 
-![Gif showing the functioning of weather_app.py](github.com/eedx/WeatherApp/weather_app.gif)
+![Gif showing the functioning of weather_app.py](https://github.com/eedx/WeatherApp/assets/34174105/5d8f6c88-d49e-48b7-994f-7e52f09247a5)
 
 Powered by [WeatherAPI.com](weatherapi.com)
