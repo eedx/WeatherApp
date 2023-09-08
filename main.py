@@ -2,11 +2,12 @@
 # LIBRARIES AND VARIABLES NEEDED
 
 import datetime
+from urllib.request import urlopen
 
 import customtkinter as ctk
 import requests
 from PIL import Image
-from urllib.request import urlopen
+
 from config import API_TOKEN
 
 week = {
