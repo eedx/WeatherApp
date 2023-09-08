@@ -7,6 +7,7 @@ import customtkinter as ctk
 import requests
 from PIL import Image
 from urllib.request import urlopen
+from config import API_TOKEN
 
 week = {
     0: 'Mon',
@@ -18,7 +19,7 @@ week = {
     6: 'Sun'
 }
 
-api_key = 'abb1e2d8f5df4b13b6304758230708'
+api_key = API_TOKEN
 
 url = 'http://api.weatherapi.com/v1/forecast.json'
 
